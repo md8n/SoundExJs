@@ -1,0 +1,118 @@
+﻿[
+  //{"title": "All Vowels", "dump": "aeiou", "value":  "", "regex": "^(ae|ah|ah1|aw|e|eh|eh1|i|ie|iu1|o|oo|u|u1|uh|uh1|uh2|uh3)$"},
+  {
+    "title": "A Vowels",
+    "dump": "a",
+    "value": "a",
+    "regex": "^(ae|ah|ah1|aw)$"
+  },
+  {
+    "title": "E Vowels",
+    "dump": "e",
+    "value": "e",
+    "regex": "^(e|eh|eh1)$"
+  },
+  {
+    "title": "I Vowels",
+    "dump": "i",
+    "value": "i",
+    "regex": "^(i|ie|iu1)$"
+  },
+  {
+    "title": "O Vowels",
+    "dump": "o",
+    "value": "o",
+    "regex": "^(o|oo)$"
+  },
+  {
+    "title": "U Vowels",
+    "dump": "u",
+    "value": "u",
+    "regex": "^(u|u1|uh|uh1|uh2|uh3)$"
+  },
+  {
+    "title": "HWY Consonants",
+    "dump": "hwy",
+    "leadingValue": "4",
+    "value": "",
+    "regex": "^(h|w|yi)$"
+  },
+  {
+    "title": "H Consonant",
+    "dump": "h",
+    "value": "H",
+    "regex": "^h$"
+  },
+  {
+    "title": "W Consonant",
+    "dump": "w",
+    "value": "W",
+    "regex": "^w$"
+  },
+  {
+    "title": "Y Consonant",
+    "dump": "y",
+    "value": "Y",
+    "regex": "^yi$"
+  },
+  {
+    "title": "BPV Consonants",
+    "dump": "",
+    "value": "0",
+    "regex": "^[bpv]$"
+  },
+  {
+    "title": "DT Consonants",
+    "dump": "",
+    "value": "1",
+    "regex": "^(d|t|th|thv)$"
+  },
+  {
+    "title": "F Consonants",
+    "dump": "",
+    "value": "2",
+    "regex": "^f$"
+  },
+  {
+    "title": "GJ Consonants",
+    "dump": "",
+    "value": "3",
+    "regex": "^[gj]$"
+  },
+  {
+    "title": "K Consonants",
+    "dump": "",
+    "value": "5",
+    "regex": "^k$"
+  },
+  {
+    "title": "L Consonants",
+    "dump": "",
+    "value": "6",
+    "regex": "^(l|lb|lf)$"
+  },
+  {
+    "title": "MN Consonants",
+    "dump": "",
+    "value": "7",
+    "regex": "^(m|n|ng)$"
+  },
+  {
+    "title": "R Consonants",
+    "dump": "",
+    "value": "8",
+    "regex": "^(er|r)$"
+  },
+  {
+    "title": "SZ Consonants",
+    "dump": "",
+    "value": "9",
+    "regex": "^(s|sch|z)$"
+  },
+  {
+    "title": "Word Divider",
+    "dump": "|",
+    "value": "|",
+    "regex": "^\\|$"
+  }
+]

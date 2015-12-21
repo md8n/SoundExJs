@@ -1,0 +1,41 @@
+{
+  "name": "SoundEx",
+  "version": "0.1.0",
+  "description": "Phoneme to SoundEx converter",
+  "main": "./lib/soundEx.js",
+  "bin": {
+    "soundEx": "./bin/soundEx"
+  },
+  "author": {
+    "name": "Lee Humphries",
+    "email": "lee@md8n.com"
+  },
+  "keywords": [
+    "phoneme",
+    "phonetic",
+    "phoneme to soundEx",
+    "soundEx",
+    "sounds like",
+    "phonetic text hash"
+  ],
+  "directories": {
+    "lib": ".lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "commander": ">= 2.9.0"
+  },
+  "devDependencies": {
+    "assert": "^1.3.0"
+  },
+  "engines": {
+    "node": "4.2.x"
+  },
+  "repository": { },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/md8n/SoundExJs/issues"
+  },
+  "homepage": "https://github.com/md8n/SoundExJs"
+
+}
